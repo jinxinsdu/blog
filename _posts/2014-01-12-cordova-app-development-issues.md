@@ -9,7 +9,8 @@ tags:     [格式, 博客]
 
 ## 标题 ##
 
-[超链接][]
+[超链接到谷歌][]
+
 [百度](http://www.baidu.com)
 
 > quote
@@ -21,7 +22,9 @@ tags:     [格式, 博客]
     hello world
 	
 普通文本
+
 `灰色文本`
 
 -EOF-
 
+[超链接到谷歌] : http://www.google.com.tw
