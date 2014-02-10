@@ -19,7 +19,7 @@
 	{{ content }}
 
 	<footer>
-		<p>&copy; Since 2012 <a href="http://github.com/mytharcher" target="_blank">github.com/mytharcher</a></p>
+		<p>&copy; Since 2014 <a href="http://jinxin.info" target="_blank">jinxin.info</a></p>
 	</footer>
 </div>
 
@@ -33,17 +33,17 @@
 	</nav>
 	
 	<form action="/search/" class="block block-search">
-		<h3>搜索</h3>
+		<h3>Search</h3>
 		<p><input type="search" name="q" placeholder="输入关键词按回车搜索" /></p>
 	</form>
 	
 	<div class="block block-about">
-		<h3>关于</h3>
+		<h3>About</h3>
 		<figure>
 			{% if site.meta.author.gravatar %}<img src="{{ site.meta.gravatar}}{{ site.meta.author.gravatar }}?s=48" />{% endif %}
 			<figcaption><strong>{{ site.meta.author.name }}</strong></figcaption>
 		</figure>
-		<p>由于经常造各种轮子，所以自诩为前端造轮子工程师。各种形式主义，工具癖，规划控，纠结帝……以及重度拖延症患者。</p>
+		<p>..some description</p>
 	</div>
 	
 	<div class="block block-license">
