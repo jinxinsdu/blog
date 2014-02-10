@@ -19,7 +19,7 @@
 	{{ content }}
 
 	<footer>
-		<p>&copy; Since 2012</p>
+		<p>&copy; Since 2014</p>
 	</footer>
 </div>
 
@@ -35,7 +35,7 @@
 	
 	<form action="/search/" class="block block-search">
 		<h3>Search</h3>
-		<p><input type="search" name="q" placeholder="Search" /></p>
+		<p><input type="search" name="q" placeholder="Type a keyword and press Enter" /></p>
 	</form>
 	
 	<div class="block block-about">
