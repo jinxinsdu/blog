@@ -34,7 +34,7 @@
 	
 	<form action="/search/" class="block block-search">
 		<h3>Search</h3>
-		<p><input type="search" name="q" placeholder="输入关键词按回车搜索" /></p>
+		<p><input type="search" name="q" placeholder="Type and press Enter" /></p>
 	</form>
 	
 	<div class="block block-about">
@@ -83,7 +83,7 @@ site.URL_DISCUS_COMMENT = '{{ site.meta.author.disqus }}' ? 'http://{{ site.meta
 
 site.VAR_SITE_NAME = '{{ site.name }}';
 site.VAR_GOOGLE_CUSTOM_SEARCH_ID = '{{ site.meta.author.gcse }}';
-site.TPL_SEARCH_TITLE = '#{0} / 搜索：#{1}';
+site.TPL_SEARCH_TITLE = '#{0} / Search：#{1}';
 site.VAR_AUTO_LOAD_ON_SCROLL = {{ site.custom.scrollingLoadCount }};
 </script>
 </body>
