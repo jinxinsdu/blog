@@ -13,22 +13,23 @@ custom:
     category:
         default: Default Category
         another: Another Category
-programming: Programming Category
+        programming: Programming Category
     categories:
       - name:  default
         title: Default Category
 
       - name:  another
         title: Another Category
-- name:  programming
+      
+      - name:  programming
         title: Programming Category
 
     scrollingLoadCount: 2                          # 滚屏自动加载文章数量，“0”为关闭
 
 meta:
     author:
-        name: Your Name
-        email: your-email@example.com
+        name: Jin Xin
+        email: admin@jinxin.info
         disqus: your-disqus-short-name              # Disqus缩略标识
         gcse: 000346898720731947188:13h55x32l0y     # Google自定义搜索标识ID
         github: your-github-account                 # GitHub账号
