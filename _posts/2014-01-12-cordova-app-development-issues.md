@@ -9,7 +9,7 @@ tags:     [格式, 博客]
 
 ## 标题 ##
 
-[超链接到谷歌][]
+[google][]
 
 [百度](http://www.baidu.com)
 
@@ -27,4 +27,4 @@ tags:     [格式, 博客]
 
 -EOF-
 
-[超链接到谷歌] : http://www.google.com.tw
+[google] : http://www.google.com.tw/
