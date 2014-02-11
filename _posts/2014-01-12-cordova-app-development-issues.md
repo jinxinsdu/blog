@@ -9,8 +9,6 @@ tags:     [格式, 博客]
 
 ## 标题 ##
 
-[google][]
-
 [百度](http://www.baidu.com)
 
 > quote
@@ -25,6 +23,3 @@ tags:     [格式, 博客]
 
 `灰色文本`
 
--EOF-
-
-[google] : http://www.google.com.tw/
