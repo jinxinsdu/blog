@@ -34,7 +34,7 @@ meta:
     author:
         name: Jin Xin
         email: admin@jinxin.info
-        disqus: tech-justlog-me                     # Disqus缩略标识
+        disqus: jinxin                              # Disqus缩略标识
         gcse: 000543501949367061232:nj5uxmlpssk     # Google自定义搜索标识ID
         github: mytharcher/SimpleGray.git           # GitHub账号
         gravatar: 00000000000000000000000000000000  # Gravatar头像标识
