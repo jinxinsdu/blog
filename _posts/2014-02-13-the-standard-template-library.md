@@ -1,4 +1,11 @@
-# The Standard Template Library #
+---
+layout:   post
+title:    What is STL?
+category: experience
+tags:     [格式, 博客]
+---
+
+# What is STL? #
 STL是一个库，提供一些标准的类和功能。
 
 >As its name implies, the Standard Template Library (STL) is a library of standard class and function templates. You can use these templates to create a wide range of powerful general - purpose classes for organizing your data, as well as functions for processing that data in various ways. 
