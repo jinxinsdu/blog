@@ -1,7 +1,7 @@
 ---
 date: 2014-03-14 18:10:23  
 layout: post
-title: How to use google?
+title: How to use Google?
 category: experience
 tags:
 - software
