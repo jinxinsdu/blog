@@ -1,7 +1,7 @@
 ---
 date: 2014-03-07 21:39:55  
 layout: post
-title: Reading notes of "Travel together"_1
+title: Reading notes of "Traveling together"_1
 category: experience
 tags:
 - travel
